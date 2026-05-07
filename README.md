@@ -38,12 +38,6 @@ No modo "navegador" (Firefox/Safari), o aplicativo trabalha com uma comarca por 
 
 Os dados ficam **integralmente** no seu computador, na pasta que você escolheu. Nada trafega pela internet, nada é enviado para nenhum servidor. O aplicativo (HTML estático) é hospedado no GitHub Pages, mas os dados nunca saem da sua máquina.
 
-## Como hospedar no GitHub Pages
-
-1. Faça upload deste arquivo `index.html` para um repositório seu no GitHub
-2. Vá em Settings → Pages → Source: Deploy from a branch (main / root) → Save
-3. Em ~1 minuto, o site fica disponível em `https://seunome.github.io/nomedorepo/`
-
 ---
 
 *Inspirado e baseado no Manual de Administração Judicial (Haddad & Capanema Pedrosa) e no Provimento 355/2018-CGJ-TJMG.*
